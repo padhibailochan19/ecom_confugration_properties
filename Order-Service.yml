@@ -8,6 +8,7 @@ spring:
     password: root@1234
     url: jdbc:mysql://localhost:3306/bailochan_ecomm
 
+
   jpa:
     hibernate:
       ddl-auto: update
